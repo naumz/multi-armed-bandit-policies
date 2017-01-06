@@ -11,4 +11,6 @@ The following are some of the different online learning policies for a single-pl
 
 4. TSdelayed.m - To simulate performance of a delayed-action Thompson Sampling policy for online learning in a multi-armed bandit setting. https://arxiv.org/abs/1505.00553
 
+5. e3.m - To simulate performance of the E3 policy for online learning in a multi-armed bandit setting. https://arxiv.org/abs/1505.00553
+
 Each file is self-contained.
